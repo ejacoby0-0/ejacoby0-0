@@ -1,0 +1,42 @@
+C:\Users\Ethan\OneDrive\Desktop\C#\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Desktop\C#\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\C#\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Desktop\C#\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\C#\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.exe
+C:\Users\Ethan\OneDrive\Desktop\C#\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.deps.json
+C:\Users\Ethan\OneDrive\Desktop\C#\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Desktop\C#\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.dll
+C:\Users\Ethan\OneDrive\Desktop\C#\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.pdb
+C:\Users\Ethan\OneDrive\Desktop\C#\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.dll
+C:\Users\Ethan\OneDrive\Desktop\C#\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\refint\HotelReservationSystem.dll
+C:\Users\Ethan\OneDrive\Desktop\C#\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.pdb
+C:\Users\Ethan\OneDrive\Desktop\C#\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.genruntimeconfig.cache
+C:\Users\Ethan\OneDrive\Desktop\C#\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\ref\HotelReservationSystem.dll
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.exe
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.deps.json
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.dll
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.pdb
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.dll
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\refint\HotelReservationSystem.dll
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.pdb
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.genruntimeconfig.cache
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\ref\HotelReservationSystem.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.exe
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.deps.json
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.pdb
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\refint\HotelReservationSystem.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.pdb
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.genruntimeconfig.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\ref\HotelReservationSystem.dll
