@@ -1,0 +1,14 @@
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Student_Course_Enrollment_System\obj\Debug\net8.0\Student_Course_Enrollment_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Student_Course_Enrollment_System\obj\Debug\net8.0\Student_Course_Enrollment_System.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Student_Course_Enrollment_System\obj\Debug\net8.0\Student_Course_Enrollment_System.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Student_Course_Enrollment_System\obj\Debug\net8.0\Student_Course_Enrollment_System.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Student_Course_Enrollment_System\bin\Debug\net8.0\Student_Course_Enrollment_System.exe
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Student_Course_Enrollment_System\bin\Debug\net8.0\Student_Course_Enrollment_System.deps.json
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Student_Course_Enrollment_System\bin\Debug\net8.0\Student_Course_Enrollment_System.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Student_Course_Enrollment_System\bin\Debug\net8.0\Student_Course_Enrollment_System.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Student_Course_Enrollment_System\bin\Debug\net8.0\Student_Course_Enrollment_System.pdb
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Student_Course_Enrollment_System\obj\Debug\net8.0\Student_Course_Enrollment_System.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Student_Course_Enrollment_System\obj\Debug\net8.0\refint\Student_Course_Enrollment_System.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Student_Course_Enrollment_System\obj\Debug\net8.0\Student_Course_Enrollment_System.pdb
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Student_Course_Enrollment_System\obj\Debug\net8.0\Student_Course_Enrollment_System.genruntimeconfig.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Student_Course_Enrollment_System\obj\Debug\net8.0\ref\Student_Course_Enrollment_System.dll
