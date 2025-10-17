@@ -1,0 +1,5 @@
+Name: Sarah Mokoena, Age: 34, Medical Condition: Hypertension
+Name: Thabo Ndlovu, Age: 29, Medical Condition: Asthma
+Name: Nomsa Dlamini, Age: 41, Medical Condition: Diabetes
+Name: Kebelo Molefe, Age: 37, Medical Condition: High Cholesterol
+Name: Lerato Khumalo, Age: 22, Medical Condition: Flu
