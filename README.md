@@ -1,5 +1,9 @@
 ## Hi there 👋 My name is Etahn Jacoby, I am an up incoming software engineering student.
 
+- 🔭 I’m currently working on an inventory system
+- 🌱 I’m currently learning data structure and algorithms 
+
+
 <!--
 **ejacoby0-0/ejacoby0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
