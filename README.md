@@ -3,8 +3,12 @@
 I am an up incoming software engineering student
 
 - 🔭 I’m currently working on an inventory system
-- 🌱 I’m currently learning data structure and algorithms 
+- 🌱 I’m currently learning data structure and algorithms
 
+Technical Skills:
+•	Languages: C#, PHP, JavaScript, C++, HMTL, CSS
+•	Technologies: ASP.NET Core, MySQL, Android Studio, Git/GitHub, Linux, AWS
+•	Tools: Visual Studio, VS Code, Windows server 2019, Microsoft Office	Soft skills:
 
 <!--
 **ejacoby0-0/ejacoby0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
